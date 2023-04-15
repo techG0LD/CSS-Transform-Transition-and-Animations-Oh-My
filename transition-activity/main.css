@@ -21,7 +21,3 @@ button {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
 }
-
-button:hover {
-  background-color: cornflowerblue;
-}

@@ -1,1 +1,16 @@
 
+button:hover {
+    background-color: cornflowerblue;
+    filter:none;
+    color: white;
+  
+  }
+  
+button{
+    transition:2s;
+    position:relative;
+}
+
+@keyframes button{
+    0% {color:ghostwhite;}
+}
